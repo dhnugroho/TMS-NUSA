@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vIjOJilQ/cY=",
+  "dgSpecHash": "+SrqImW2BIg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dhnug\\source\\repos\\TaskManagementSystemNusa\\src\\TaskManagement.Application\\TaskManagement.Application.csproj",
+  "projectFilePath": "C:\\Users\\dhnug\\source\\repos\\GITHUB\\TMS-NUSA\\TaskManagementSystemNusa\\src\\TaskManagement.Application\\TaskManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dhnug\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.3\\microsoft.extensions.dependencyinjection.abstractions.9.0.3.nupkg.sha512",
     "C:\\Users\\dhnug\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.3\\microsoft.extensions.logging.abstractions.9.0.3.nupkg.sha512"

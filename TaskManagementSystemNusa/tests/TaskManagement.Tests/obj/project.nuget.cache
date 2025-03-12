@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LV4JHiA9PHY=",
+  "dgSpecHash": "FhdIdyz3EVA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dhnug\\source\\repos\\TaskManagementSystemNusa\\tests\\TaskManagement.Tests\\TaskManagement.Tests.csproj",
+  "projectFilePath": "C:\\Users\\dhnug\\source\\repos\\GITHUB\\TMS-NUSA\\TaskManagementSystemNusa\\tests\\TaskManagement.Tests\\TaskManagement.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dhnug\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\dhnug\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
